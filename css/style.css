@@ -1,0 +1,23 @@
+/*
+Theme Name: Matthias Ulrich
+Theme URI: http://design.matthiasulrich.ch
+Description: Stylish Theme
+Author: Matthias Ulrich
+Author URI: http://design.matthiasulrich.ch
+*/
+
+
+#meinDiv_Container{
+	position: fixed;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  }
+.box{
+	display:block;
+	overflow:hidden;
+	float:left;}
+body{background:none;}

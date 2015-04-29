@@ -1,0 +1,20 @@
+/*
+Theme Name: Matthias Ulrich
+Theme URI: http://design.matthiasulrich.ch
+Description: Stylish Theme
+Author: Matthias Ulrich
+Author URI: http://design.matthiasulrich.ch
+*/
+
+table{
+	border-spacing:0;
+}
+.einstellungs_tabelle tr td {
+	
+
+}
+.tabellen_strich{
+	border-bottom: 1px black solid;
+	height:40px;
+	vertical-align: bottom!important; 
+}
